@@ -1,1 +1,1 @@
-# M5StickC-MPU6886-levelmeter
+# M5StickC-Inertial-synth-controller-MPU6886
