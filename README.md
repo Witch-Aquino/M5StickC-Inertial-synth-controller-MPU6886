@@ -1,7 +1,7 @@
 # M5StickC-Inertial-synth-controller-MPU6886
 
 ## Summary
-Control (semi)modular synths with inertial sensors
+Control (semi)modular synths with inertial measurement unit
 
 ## Requirement
 - M5StickC MPU6886 model.
