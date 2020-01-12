@@ -11,7 +11,7 @@
 
 ### Operation confirmed w/following synth
 - Korg Volca modular
-- Vastle castle
+- Bastl Instruments Kastle v1.5
 
 
     
