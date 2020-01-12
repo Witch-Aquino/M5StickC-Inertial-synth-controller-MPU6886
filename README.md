@@ -12,7 +12,7 @@ Control (semi)modular synths with inertial sensors
 - https://twitter.com/witch_aquino/status/1163836386480312321
 - https://twitter.com/witch_aquino/status/1166633284995973120
 
-### Operation confirmed following synth
+### Operation confirmed following synths
 - Korg Volca modular
 - Bastl Instruments Kastle v1.5
 
